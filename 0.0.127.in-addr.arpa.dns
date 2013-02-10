@@ -1,7 +1,7 @@
 $TTL 1d
 $ORIGIN 0.0.127.in-addr.arpa.
 
-localhost.	IN	SOA	localhost.	root.localhost. (
+@	IN	SOA	localhost.	root.localhost. (
 						2013020801	; serial
 						3h			; refresh
 						15			; retry
